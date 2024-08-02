@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in the following technologies:
 
-<img src="https://user-images.githubusercontent.com/40702606/111074799-bdfbcf00-84dc-11eb-98c0-d40a99aa0da7.png" alt="Full Stack Developer" width="600"/>
+<img src="https://user-images.githubusercontent.com/40702606/111074799-bdfbcf00-84dc-11eb-98c0-d40a99aa0da7.png" alt="Full Stack Developer" width="900"/>
 
 
 <!--
