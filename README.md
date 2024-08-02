@@ -1,7 +1,8 @@
 ## Hi there! 👋 I'm Pradeep
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in the following technologies:
-![image](https://www.google.com/imgres?q=full%20stack%2Cuiux%20images%20for%20github%20config%20files&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F40702606%2F111074799-bdfbcf00-84dc-11eb-98c0-d40a99aa0da7.png&imgrefurl=https%3A%2F%2Fgithub.com%2Famigoscode%2Fspring-boot-fullstack-professional&docid=IqD2o1_jFAOe4M&tbnid=uM90VMAaGzUWtM&vet=12ahUKEwiStfvo3NWHAxVlfGwGHfmfLu4QM3oECCkQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwiStfvo3NWHAxVlfGwGHfmfLu4QM3oECCkQAA)
+
+![Full Stack Developer](https://user-images.githubusercontent.com/40702606/111074799-bdfbcf00-84dc-11eb-98c0-d40a99aa0da7.png)
 
 
 <!--
